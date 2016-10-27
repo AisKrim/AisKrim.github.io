@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding:0;
+}
+html{
+    min-height:10%;
+    min-width:10%;
+}
+body{
+    background-color:white;
+}
+article{
+    background-color:beige;
+    min-height:100%;
+    min-width:70%;
+    height:100%;
+    width:30%;
+    position: relative;
+    left:15%;
+    text-align: center;
+    -moz-box-shadow: 0 0 30px #ccc;
+    -webkit-box-shadow: 0 0 30px #ccc;
+    box-shadow: 0 0 30px #ccc;
+}
+.purpose{
+    color:maroon;
+    font-family: 'Open Sans', sans-serif;
+    position: relative;
+    top:10%;
+    text-decoration: underline;
+}
