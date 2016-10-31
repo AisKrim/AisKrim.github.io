@@ -74,8 +74,8 @@ body{
 }
 #homeImg{
     position:absolute;
-    top:25%;
-    left:25%;
+    top:35%;
+    left:35%;
     width:50%;
     height:50%;
 }
@@ -216,8 +216,8 @@ body{
 }
 #infoImg{
     position:absolute;
-    top:25%;
-    left:25%;
+    top:15%;
+    left:15%;
     width:50%;
     height:50%;
 }
