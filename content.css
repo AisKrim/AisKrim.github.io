@@ -17,23 +17,16 @@ p{
     position:fixed;
     top:0;
     display:block;
-    font-size:5vw;
-    font-family: Arial, sans-serif;
+    font-size:3vw;
+    font-family: 'Open Sans Condensed', sans-serif;
     color:white;
     text-align:center;
 }
 .fixedBG {
-    background-image: url("backgroundMain.jpeg");
+    background-image: url("images/backgroundMain.jpeg");
     min-height: 500px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-}
-.banner{
-    margin:0% 10% 0% 10%;
-    width:80%;
-    height:20%;
-    background-color:#cccccc;
-    border-radius:5px;
 }

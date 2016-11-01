@@ -10,16 +10,38 @@ body{
     background-color:#ffffff;
     width:100%;
     height:100%;
-    
+}
+.inner{
+    color:#b30000;
+}
+#headingTable{
+    width:50%;
+    position: relative;
+    left:25%;
+    top:10%;
+    font-size: 1.1vw;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.headingData{
+    text-align: center;
+}
+.headingBody{
+    width:100%;
+}
+hr{
+    position: relative;
+    top:10%;
+    left:25%;
+    width:50%;
 }
 .wrapContent{
-    width:40%;
-    height:40%;
-    background-color:#b30000;
+    width:30%;
+    height:30%;
     display:block;
     position:fixed;
-    top:30%;
-    left:30%;
+    top:35%;
+    left:35%;
+    background-color:#b30000;
     border-top-left-radius:50%;
     border-bottom-right-radius:50%;
 }
@@ -71,6 +93,7 @@ body{
     left:0;
     width:100%;
     height:100%;
+    border-top-left-radius:100%;
 }
 #homeImg{
     position:absolute;
@@ -196,6 +219,7 @@ body{
     height:50%;
     top:50%;
     left:50%;
+    border-bottom-right-radius:100%;
 }
 #bottomRight:hover{
     width:0;
@@ -204,6 +228,8 @@ body{
 #bottomRightWrap:hover #bottomRight{
     width:0;
     height:0;
+    top:0;
+    left:0;
 }
 #hiddenLink4{
     z-index: 1;
@@ -213,11 +239,12 @@ body{
     height:100%;
     top:0;
     left:0;
+    border-bottom-right-radius:100%;
 }
 #infoImg{
     position:absolute;
     top:15%;
-    left:10%;
+    left:15%;
     width:50%;
     height:50%;
 }
