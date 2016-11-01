@@ -23,7 +23,7 @@ p{
     text-align:center;
 }
 .fixedBG {
-    background-image: url("images/backgroundMain.jpeg");
+    background-image: url("backgroundMain.jpeg");
     min-height: 500px;
     background-attachment: fixed;
     background-position: center;
