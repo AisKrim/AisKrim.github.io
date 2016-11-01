@@ -41,12 +41,12 @@ hr{
     position:fixed;
     top:35%;
     left:35%;
-    /*background-color:#b30000;*/
+    /*background-color:#b30000;
     background: #b30000;
     background: -webkit-radial-gradient(#b30000, #910000, #3f0000);
     background: -o-radial-gradient(#b30000, #910000, #3f0000);
     background: -moz-radial-gradient(#b30000, #910000, #3f0000);
-    background: radial-gradient(#b30000, #910000, #3f0000);
+    background: radial-gradient(#b30000, #910000, #3f0000);*/
     border-top-left-radius:50%;
     border-bottom-right-radius:50%;
 }
