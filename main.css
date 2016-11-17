@@ -37,12 +37,12 @@ hr{
 #button{
     z-index: 5;
     position:absolute;
-    left:48.5%;
+    left:48%;
     top:47%;
     transition-duration: 0.2s;
-    width:3%;
+    width:4%;
     height:6%;
-    border-radius: 50%;
+    border-radius: 4%;
     cursor: pointer;
     border:none;
     background-color:#b30000;
