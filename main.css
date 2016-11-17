@@ -40,9 +40,9 @@ hr{
     left:48.5%;
     top:47%;
     transition-duration: 0.2s;
-    width:6%;
+    width:3%;
     height:6%;
-    border-radius: 4%;
+    border-radius: 50%;
     cursor: pointer;
     border:none;
     background-color:#b30000;
