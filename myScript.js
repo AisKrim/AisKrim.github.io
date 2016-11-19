@@ -3,7 +3,8 @@ function expandMenu() {
     if (myBoolean == false){
         var myContent = document.getElementById("wrapContent");
         document.getElementById("eye").src = "closed-eye-icon-v2.png";
-        document.getElementById("button").style.backgroundColor = "#20202c";
+        //document.getElementById("button").style.backgroundColor = "#20202c";
+        document.getElementById("button").style.background = "none";
         myContent.style.transitionDuration = "0.3s";
         myContent.style.width = "30%";
         myContent.style.height = "30%";
